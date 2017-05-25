@@ -2,7 +2,7 @@
 `Using tkinter module and database`
 
 `from tkinter import *`
-`import sqlite3`
+import sqlite3`
 ##### What can ı do in this app?
 * You can add city name and city's plate code in to application
 * You can delete city name and city's plate from application
@@ -11,6 +11,7 @@
 >If plate code is registered, The application will respond to you
 ### In Turkish
 `Uygulamada tkinter modülü ve veritabanı kullanılmıştır.`
+
 `from tkinter import *
 import sqlite3`
 #### Uygulama ile neler yapabilirim?
