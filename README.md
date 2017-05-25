@@ -3,7 +3,7 @@
 
 `from tkinter import *`
 
-import sqlite3`
+`import sqlite3`
 ##### What can ı do in this app?
 * You can add city name and city's plate code in to application
 * You can delete city name and city's plate from application
@@ -15,7 +15,7 @@ import sqlite3`
 
 `from tkinter import *`
 
-import sqlite3`
+`import sqlite3`
 #### Uygulama ile neler yapabilirim?
 * Uygulamaya şehir adı ve plaka koduekleyebilirsiniz.
 * Uygulamadan şehir adı ve plaka kodu silebilirsiniz.
