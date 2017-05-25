@@ -2,6 +2,7 @@
 `Using tkinter module and database`
 
 `from tkinter import *`
+
 import sqlite3`
 ##### What can ı do in this app?
 * You can add city name and city's plate code in to application
@@ -12,7 +13,8 @@ import sqlite3`
 ### In Turkish
 `Uygulamada tkinter modülü ve veritabanı kullanılmıştır.`
 
-`from tkinter import *
+`from tkinter import *`
+
 import sqlite3`
 #### Uygulama ile neler yapabilirim?
 * Uygulamaya şehir adı ve plaka koduekleyebilirsiniz.
